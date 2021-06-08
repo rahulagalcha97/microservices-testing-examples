@@ -4,7 +4,7 @@
 [![Dependabot](https://img.shields.io/badge/Dependabot-enabled-blue?logo=dependabot)](https://docs.github.com/en/github/administering-a-repository/keeping-your-dependencies-updated-automatically)
 
 # Microservices Testing Examples
-
+#
 # Strategy
 When it comes to testing microservices, usually there are two alternatives:  
 a) Deploy all of them and test them in an end-to-end fashion  
